@@ -1,1 +1,1 @@
-# choiyoungji.github.io
+choiyoungji.github.io
